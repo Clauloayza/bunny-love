@@ -1,0 +1,53 @@
+/*--------GLOBAL-----------------*/
+*{
+    outline: 1px solid #ffb9e9;
+    font-family: 
+}
+body{
+    text-align: center;
+}
+/*--------HEADER----------------*/
+header .navbar-inverse{
+    background: #037f99;
+    padding: 15px;
+}
+header h4{
+    margin-top: 0;
+    color: #fff;
+}
+header span{
+    color: #ff7673;
+}
+/*--------HERO---------------*/
+.clearfix{
+    background-image: url(../img/img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+.box{
+    margin:150px 70px 60px ;
+    padding: 40px;
+    background: rgba(3, 127, 153, 0.71);
+}
+.box h1{
+    color: #ff7673; 
+    font-size: 60px;
+    font-family: Baloo+Paaji;
+    margin: 70px 0 80px;
+}
+.box p{
+    color: #fff;
+}
+/*--------IMAGENES---------------*/
+.list{
+    background: #057f99;
+    padding-bottom: 12px;
+}
+section .img{
+    margin: 30px 0;
+}
+/*--------INFORMACION---------------*/
+
+
+
